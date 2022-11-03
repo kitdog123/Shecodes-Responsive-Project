@@ -88,3 +88,10 @@ h3 {
 .fixed-top {
   position: fixed;
 }
+
+.hero {
+  background: #f9f7fe;
+  text-align: center;
+  padding: 160px 20px;
+  margin-bottom: 20px;
+}
