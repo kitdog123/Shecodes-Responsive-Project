@@ -55,6 +55,7 @@ h3 {
   padding: 20px 15px;
   text-decoration: none;
   text-transform: capitalize;
+  justify-content: center;
 }
 
 .about-link {
